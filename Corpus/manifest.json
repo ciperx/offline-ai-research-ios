@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wikipedia": {
+    "attribution": "ATTRIBUTION.md -- each record keeps its canonical URL and revision id",
+    "documents": 399,
+    "file": "Corpus/raw/wiki.jsonl",
+    "lang": "en",
+    "license": "CC-BY-SA-4.0",
+    "sha256": "f6cf99be996fd4c4b56a51581b092b49734feeba336b4a89f5aa88b1c3558ef5",
+    "source": "English Wikipedia plaintext extracts (action=query&prop=extracts&explaintext)"
+  }
+}

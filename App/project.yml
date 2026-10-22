@@ -1,0 +1,23 @@
+name: OfflineResearch
+options:
+  bundleIdPrefix: xyz.offlineresearch
+  deploymentTarget:
+    iOS: "17.0"
+packages:
+  OfflineResearchCore:
+    path: ../Core
+targets:
+  OfflineResearch:
+    type: application
+    platform: iOS
+    sources:
+      - path: Sources
+      - path: Resources
+    dependencies:
+      - package: OfflineResearchCore
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: xyz.offlineresearch.app
+        GENERATE_INFOPLIST_FILE: YES
+        INFOPLIST_KEY_UILaunchScreen_Generation: YES
+        SWIFT_VERSION: "5.9"

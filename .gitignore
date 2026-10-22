@@ -1,0 +1,8 @@
+.build/
+DerivedData/
+*.xcodeproj/
+xcuserdata/
+__pycache__/
+*.pyc
+.DS_Store
+Corpus/raw/*.tmp

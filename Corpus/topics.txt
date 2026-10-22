@@ -1,0 +1,408 @@
+# Offline Research iOS — English Wikipedia topic list (CC BY-SA 4.0 sources)
+# One exact article title per line. '#' starts a comment. Blank lines ignored.
+# This list defines the bundled corpus used by Scripts/fetch_corpus.py.
+Photosynthesis
+Cellular respiration
+CRISPR gene editing
+Messenger RNA
+Immune system
+Antibiotic resistance
+Gut microbiota
+Circadian rhythm
+Neuroplasticity
+Sleep
+Alzheimer's disease
+Insulin
+Epidemiology
+Vaccine
+Placebo
+Statistical significance
+Bayesian inference
+Regression toward the mean
+Confounding
+Randomized controlled trial
+Correlation does not imply causation
+Information theory
+Entropy
+Fourier transform
+Kalman filter
+Fast Fourier transform
+Linear regression
+Gradient descent
+Backpropagation
+Transformer (deep learning architecture)
+Attention (machine learning)
+Large language model
+Quantization (signal processing)
+Retrieval-augmented generation
+Vector database
+SQLite
+Full-text search
+B-tree
+Hash table
+Bloom filter
+Merkle tree
+CRDT
+CAP theorem
+Distributed hash table
+Public-key cryptography
+RSA (cryptosystem)
+Elliptic-curve cryptography
+Advanced Encryption Standard
+SHA-2
+Transport Layer Security
+Diffie–Hellman key exchange
+Zero-knowledge proof
+Blockchain
+Merkle–Damgård construction
+TCP congestion control
+OSI model
+Domain Name System
+Border Gateway Protocol
+Network address translation
+IPv6
+Quality of service
+Wi-Fi
+Bluetooth Low Energy
+LoRa
+5G
+Error detection and correction
+Reed–Solomon error correction
+Unicode
+UTF-8
+Regular expression
+Compiler
+Garbage collection (computer science)
+Operating system
+Virtual memory
+Memory management unit
+CPU cache
+Branch predictor
+Reduced instruction set computer
+Instruction pipelining
+Out-of-order execution
+SIMD
+Graphics processing unit
+CUDA
+Metal (API)
+ARM architecture family
+RISC-V
+Solid-state drive
+Flash memory
+Lithium-ion battery
+Supercapacitor
+Photovoltaic effect
+Solar cell
+Nuclear fission
+Nuclear fusion
+Thermodynamics
+Heat pump
+Carnot's theorem (thermodynamics)
+Entropy (information theory)
+Chaos theory
+Butterfly effect
+Double-slit experiment
+Quantum entanglement
+Uncertainty principle
+Standard Model
+General relativity
+Gravitational lens
+Orbital mechanics
+Delta-v
+Escape velocity
+Tidal locking
+Plate tectonics
+Milankovitch cycles
+Greenhouse effect
+Carbon cycle
+Ocean acidification
+El Niño
+Jet stream
+Coriolis force
+Weather forecasting
+Ensemble forecasting
+Hydrology
+Groundwater
+Desalination
+Nitrogen fixation
+Soil salinity
+Crop rotation
+Sourdough
+Fermentation
+Enzyme kinetics
+Michaelis–Menten kinetics
+Protein structure prediction
+AlphaFold
+Molecular dynamics
+Chromatography
+Mass spectrometry
+Nuclear magnetic resonance
+Polymerase chain reaction
+Gel electrophoresis
+Titration
+Electrolysis
+Haber process
+Catalysis
+Le Chatelier's principle
+Chemical equilibrium
+Acid–base reaction
+Buffer solution
+Osmosis
+Diffusion
+Brownian motion
+Viscosity
+Reynolds number
+Bernoulli's principle
+Mach number
+Shock wave
+Sonar
+Radar
+Lidar
+Inertial navigation system
+Global Positioning System
+Kalman filter
+Pid controller
+Control theory
+Feedback
+Signal-to-noise ratio
+Dynamic range compression
+Sampling (signal processing)
+Nyquist–Shannon sampling theorem
+JPEG
+MP3
+Opus (audio format)
+H.264/MPEG-4 AVC
+Speech recognition
+Optical character recognition
+Computer vision
+Convolutional neural network
+Recurrent neural network
+Reinforcement learning
+Markov chain
+Monte Carlo method
+Simulated annealing
+Genetic algorithm
+Linear programming
+NP-completeness
+Halting problem
+Gödel's incompleteness theorems
+Type theory
+Lambda calculus
+Logic programming
+Relational database
+ACID
+Database normalization
+Query optimization
+Write-ahead logging
+Memory-mapped file
+Filesystem
+NTFS
+Ext4
+APFS
+Copy-on-write
+RAID
+Erasure code
+Data deduplication
+Inflation
+Monetary policy
+Purchasing power parity
+Interest rate
+Bond (finance)
+Option (finance)
+Black–Scholes model
+Diversification (finance)
+Compound interest
+Insurance
+Moral hazard
+Adverse selection
+Auction
+Vickrey auction
+Nash equilibrium
+Prisoner's dilemma
+Public goods
+Externality
+Tragedy of the commons
+Behavioral economics
+Prospect theory
+Cognitive bias
+Dunning–Kruger effect
+Spaced repetition
+Working memory
+Cognitive load
+Dual process theory
+Constructivism (philosophy of education)
+Socratic method
+Peer review
+Reproducibility
+P-value
+Effect size
+Meta-analysis
+Systematic review
+Open science
+Creative Commons
+Public domain
+Copyright
+Patent
+Trade secret
+Standard essential patent
+Renaissance
+Perspective (graphical)
+Camera obscura
+Color theory
+Subtractive color
+Human visual system
+Optical aberration
+Diffraction
+Interference (wave propagation)
+Polarization (waves)
+Refractive index
+Laser
+Light-emitting diode
+Semiconductor
+Doping (semiconductor)
+Moore's law
+Photolithography
+Fin field-effect transistor
+Thermal conduction
+Thermal radiation
+Emissivity
+Black body
+Planck's law
+Radioactive decay
+Half-life
+Carbon-14 dating
+Isotope
+Neutron cross section
+Radiation protection
+Dosimetry
+Ultrasound
+Magnetic resonance imaging
+Computed tomography
+Positron emission tomography
+Anesthesia
+Sepsis
+Triage
+Triage
+Blood transfusion
+Pharmacokinetics
+Drug interaction
+Half-life
+Anticoagulant
+Hypertension
+Diabetes
+Obesity
+Malnutrition
+Micronutrient
+Vitamin D
+Iron deficiency
+Dehydration
+Oral rehydration therapy
+Sanitation
+Water chlorination
+Wastewater treatment
+Air quality index
+Particulate matter
+Ozone depletion
+Montreal Protocol
+Kyoto Protocol
+Paris Agreement
+Carbon price
+Life-cycle assessment
+Circular economy
+Urban heat island
+Transit-oriented development
+Induced demand
+Braess's paradox
+Traffic flow
+Roundabout
+Level crossing
+Railway signalling
+European Train Control System
+Air traffic control
+Instrument landing system
+Great-circle navigation
+Mercator projection
+Map projection
+Geographic information system
+Remote sensing
+Normalized difference vegetation index
+Photogrammetry
+Structure from motion
+Simultaneous localization and mapping
+Extended Kalman filter
+Particle filter
+Pathfinding
+A* search algorithm
+Dijkstra's algorithm
+Dijkstra's algorithm
+Traveling purchaser problem
+Traveling salesman problem
+Bin packing problem
+Job shop scheduling
+Queueing theory
+Little's law
+Amdahl's law
+Gustafson's law
+Benchmark (computing)
+Profiling (computer programming)
+Static analysis
+Fuzzing
+Formal verification
+Model checking
+Unit testing
+Continuous integration
+Version control
+Git
+Diff
+Merge (version control)
+Semantic versioning
+Software license
+MIT License
+GNU General Public License
+Apache License
+Software supply chain
+Reproducible builds
+Binary blob
+Application binary interface
+Foreign function interface
+Swift (programming language)
+Objective-C
+LLVM
+Xcode
+iOS
+App Store (iOS/iPadOS)
+Sandbox (computer security)
+Code signing
+Entitlement (computing)
+Dynamic linker
+Static library
+Fat binary
+Antibiotic resistance
+Audit
+Aura (symptom)
+Bayes' theorem
+Carbon dating
+Comparative advantage
+Consensus (computer science)
+Double-entry bookkeeping
+Fraud
+Gas turbine
+Gini coefficient
+Homomorphic encryption
+Internal control
+Internet protocol suite
+Jet engine
+MOSFET
+Maillard reaction
+Migraine
+Okapi BM25
+Overfitting
+P versus NP problem
+Photosynthetic efficiency
+RSA (cryptosystem)
+Radiometric dating
+Regularization (mathematics)
+Speed of light
+Transformer (deep learning architecture)
+Transistor
+Transmission Control Protocol

@@ -1,0 +1,63 @@
+{"q": "Why does antibiotic resistance spread so quickly in hospitals?", "gold": ["Antibiotic resistance"], "kind": "explain"}
+{"q": "How does a lithium-ion battery store and release energy?", "gold": ["Lithium-ion battery"], "kind": "explain"}
+{"q": "What limits the efficiency of a solar cell?", "gold": ["Solar cell", "Photosynthetic efficiency"], "kind": "explain"}
+{"q": "Explain how mRNA vaccines work without altering DNA", "gold": ["Messenger RNA", "Vaccine"], "kind": "explain"}
+{"q": "How does CRISPR target a specific DNA sequence?", "gold": ["CRISPR gene editing"], "kind": "explain"}
+{"q": "What causes antibiotic resistance in bacteria?", "gold": ["Antibiotic resistance"], "kind": "explain"}
+{"q": "How does the greenhouse effect warm the planet?", "gold": ["Greenhouse effect"], "kind": "explain"}
+{"q": "Why is ocean acidification a problem for coral and shellfish?", "gold": ["Ocean acidification"], "kind": "explain"}
+{"q": "How does TCP congestion control avoid collapsing the network?", "gold": ["TCP congestion control"], "kind": "explain"}
+{"q": "What is the difference between a B-tree and a hash table for indexing?", "gold": ["B-tree", "Hash table"], "kind": "compare"}
+{"q": "Why can't we just solve P versus NP by trying harder?", "gold": ["P versus NP problem"], "kind": "explain"}
+{"q": "How does the CAP theorem constrain distributed database design?", "gold": ["CAP theorem"], "kind": "explain"}
+{"q": "How does RSA encryption actually work mathematically?", "gold": ["RSA (cryptosystem)"], "kind": "explain"}
+{"q": "Why is elliptic curve cryptography preferred over RSA on phones?", "gold": ["Elliptic-curve cryptography", "RSA (cryptosystem)"], "kind": "compare"}
+{"q": "What does BM25 score and why does it work better than raw term frequency?", "gold": ["Okapi BM25", "Full-text search"], "kind": "explain"}
+{"q": "How does attention in a transformer replace recurrence?", "gold": ["Attention (machine learning)", "Transformer (deep learning architecture)"], "kind": "explain"}
+{"q": "Why does quantizing a language model to 4 bits barely hurt quality?", "gold": ["Quantization (signal processing)", "Large language model"], "kind": "explain"}
+{"q": "How does retrieval-augmented generation reduce hallucination?", "gold": ["Retrieval-augmented generation"], "kind": "explain"}
+{"q": "What is overfitting and how does regularization help?", "gold": ["Overfitting", "Regularization (mathematics)"], "kind": "explain"}
+{"q": "Explain Bayes theorem with a medical testing example", "gold": ["Bayes' theorem"], "kind": "explain"}
+{"q": "How does a Kalman filter combine noisy sensor readings?", "gold": ["Kalman filter"], "kind": "explain"}
+{"q": "Why is the fast Fourier transform faster than the naive transform?", "gold": ["Fast Fourier transform"], "kind": "explain"}
+{"q": "What is the difference between correlation and causation?", "gold": ["Correlation does not imply causation"], "kind": "compare"}
+{"q": "Why do randomized controlled trials need blinding?", "gold": ["Randomized controlled trial"], "kind": "explain"}
+{"q": "How does inflation interact with interest rates?", "gold": ["Inflation", "Interest rate", "Monetary policy"], "kind": "explain"}
+{"q": "What is comparative advantage and why does trade still help both sides?", "gold": ["Comparative advantage"], "kind": "explain"}
+{"q": "Why are public goods underprovided by markets?", "gold": ["Public good", "Externality"], "kind": "explain"}
+{"q": "What is the tragedy of the commons and how is it avoided?", "gold": ["Tragedy of the commons"], "kind": "explain"}
+{"q": "How does double-entry bookkeeping make fraud harder to hide?", "gold": ["Double-entry bookkeeping", "Fraud"], "kind": "explain"}
+{"q": "Why do auditors care about internal control over financial reporting?", "gold": ["Internal control", "Audit"], "kind": "explain"}
+{"q": "How does radiometric dating estimate the age of a rock?", "gold": ["Radiometric dating", "Carbon dating"], "kind": "explain"}
+{"q": "What does the Standard Model leave unexplained?", "gold": ["Standard Model"], "kind": "explain"}
+{"q": "Why does time dilate at high speed?", "gold": ["General relativity", "Speed of light"], "kind": "explain"}
+{"q": "How does a heat pump move heat instead of generating it?", "gold": ["Heat pump"], "kind": "explain"}
+{"q": "Why does a jet engine produce thrust?", "gold": ["Jet engine", "Gas turbine"], "kind": "explain"}
+{"q": "How does a MOSFET switch current?", "gold": ["MOSFET", "Transistor"], "kind": "explain"}
+{"q": "Why is virtual memory useful when RAM is limited?", "gold": ["Virtual memory"], "kind": "explain"}
+{"q": "What happens physically during a migraine aura?", "gold": ["Migraine", "Aura (symptom)"], "kind": "recall"}
+{"q": "How does the immune system distinguish self from non-self?", "gold": ["Immune system"], "kind": "explain"}
+{"q": "Why does sourdough rise differently from commercial yeast bread?", "gold": ["Sourdough", "Fermentation"], "kind": "compare"}
+{"q": "How does the Maillard reaction brown food?", "gold": ["Maillard reaction"], "kind": "explain"}
+{"q": "Why does desalination consume so much energy?", "gold": ["Desalination"], "kind": "explain"}
+{"q": "How does GPS determine position from satellite timing?", "gold": ["Global Positioning System"], "kind": "explain"}
+{"q": "What is the difference between TCP and UDP for real-time media?", "gold": ["Internet protocol suite", "Transmission Control Protocol"], "kind": "compare"}
+{"q": "Why does Unicode normalization matter for text search?", "gold": ["Unicode", "UTF-8"], "kind": "explain"}
+{"q": "How does a compiler optimize away dead code?", "gold": ["Compiler"], "kind": "explain"}
+{"q": "Why is garbage collection a tradeoff for latency?", "gold": ["Garbage collection (computer science)"], "kind": "explain"}
+{"q": "How does a blockchain reach consensus without a central authority?", "gold": ["Blockchain", "Consensus (computer science)"], "kind": "explain"}
+{"q": "What is a zero-knowledge proof used for?", "gold": ["Zero-knowledge proof"], "kind": "recall"}
+{"q": "Why does homomorphic encryption matter for private computation?", "gold": ["Homomorphic encryption"], "kind": "explain"}
+{"q": "How does the Gini coefficient summarize inequality?", "gold": ["Gini coefficient"], "kind": "explain"}
+{"q": "Why do doctors worry when germs stop responding to drugs?", "gold": ["Antimicrobial resistance"], "kind": "paraphrase"}
+{"q": "What makes a phone battery degrade after a few hundred charges?", "gold": ["Lithium-ion battery"], "kind": "paraphrase"}
+{"q": "Why does a kitchen fridge need a compressor and a refrigerant?", "gold": ["Refrigerator"], "kind": "paraphrase"}
+{"q": "Why does bread rise without adding commercial yeast?", "gold": ["Sourdough"], "kind": "paraphrase"}
+{"q": "How do machines learn patterns from examples instead of explicit rules?", "gold": ["Machine learning"], "kind": "paraphrase"}
+{"q": "What keeps a satellite circling the planet instead of dropping out of the sky?", "gold": ["Orbital mechanics"], "kind": "paraphrase"}
+{"q": "Why can two observers disagree about which of two events happened first?", "gold": ["General relativity", "Time dilation"], "kind": "paraphrase"}
+{"q": "Why does squeezing a file sometimes make it larger?", "gold": ["Data compression", "Zstandard"], "kind": "paraphrase"}
+{"q": "How do servers agree on one history after the leader dies?", "gold": ["Consensus (computer science)"], "kind": "paraphrase"}
+{"q": "How does a doctor test whether a treatment really works rather than guessing?", "gold": ["Randomized controlled trial"], "kind": "paraphrase"}
+{"q": "Why does a coastal town flood more often as the sea gets warmer?", "gold": ["Sea level rise", "Ocean acidification"], "kind": "paraphrase"}
+{"q": "What makes air move from high pressure to low pressure?", "gold": ["Atmospheric pressure"], "kind": "paraphrase"}

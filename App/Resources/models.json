@@ -1,0 +1,71 @@
+{
+  "schema": 1,
+  "default": "qwen2.5-1.5b-instruct-q4_k_m",
+  "notes": "Single source of truth for model profiles. Read by Scripts/fetch_model.sh and by the app at runtime (App/Resources/models.json). Sizes and SHA-256 values were captured from the Hugging Face API (?blobs=true) on 2026-10-21.",
+  "models": [
+    {
+      "id": "qwen2.5-1.5b-instruct-q4_k_m",
+      "name": "Qwen2.5 1.5B Instruct (Q4_K_M)",
+      "family": "Qwen2.5",
+      "parameters": "1.5B",
+      "quantization": "Q4_K_M",
+      "filename": "qwen2.5-1.5b-instruct-q4_k_m.gguf",
+      "size_bytes": 1117320736,
+      "sha256": "6a1a2eb6d15622bf3c96857206351ba97e1af16c30d7a74ee38970e434e9407e",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/qwen2.5-1.5b-instruct-q4_k_m.gguf",
+      "context_train": 32768,
+      "recommended_context": 4096,
+      "ram_estimate_mb": 2048,
+      "license": "Apache-2.0",
+      "notes": "Default. Fits comfortably on a 6 GB iPhone with the index and app resident; ~10-16 tok/s on A16 CPU-only, faster with the Metal build."
+    },
+    {
+      "id": "qwen2.5-0.5b-instruct-q4_k_m",
+      "name": "Qwen2.5 0.5B Instruct (Q4_K_M)",
+      "family": "Qwen2.5",
+      "parameters": "0.5B",
+      "quantization": "Q4_K_M",
+      "filename": "qwen2.5-0.5b-instruct-q4_k_m.gguf",
+      "size_bytes": 491400032,
+      "sha256": "74a4da8c9fdbcd15bd1f6d01d621410d31c6fc00986f5eb687824e7b93d7a9db",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct-GGUF/resolve/main/qwen2.5-0.5b-instruct-q4_k_m.gguf",
+      "context_train": 32768,
+      "recommended_context": 4096,
+      "ram_estimate_mb": 900,
+      "license": "Apache-2.0",
+      "notes": "Simulator / smoke test profile. Fast to download, weak on synthesis - useful for verifying the pipeline, not for judging answer quality."
+    },
+    {
+      "id": "qwen2.5-1.5b-instruct-q8_0",
+      "name": "Qwen2.5 1.5B Instruct (Q8_0)",
+      "family": "Qwen2.5",
+      "parameters": "1.5B",
+      "quantization": "Q8_0",
+      "filename": "qwen2.5-1.5b-instruct-q8_0.gguf",
+      "size_bytes": 1894532128,
+      "sha256": "d7efb072e7724d25048a4fda0a3e10b04bdef5d06b1403a1c93bd9f1240a63c8",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/qwen2.5-1.5b-instruct-q8_0.gguf",
+      "context_train": 32768,
+      "recommended_context": 4096,
+      "ram_estimate_mb": 2800,
+      "license": "Apache-2.0",
+      "notes": "Quality reference for benchmarking: same weights, near-lossless quantisation. Use it to measure how much Q4_K_M costs."
+    },
+    {
+      "id": "smollm2-360m-instruct-q8_0",
+      "name": "SmolLM2 360M Instruct (Q8_0)",
+      "family": "SmolLM2",
+      "parameters": "360M",
+      "quantization": "Q8_0",
+      "filename": "smollm2-360m-instruct-q8_0.gguf",
+      "size_bytes": 386404992,
+      "sha256": "48ab3034d0dd401fbc721eb1df3217902fee7dab9078992d66431f09b7750201",
+      "url": "https://huggingface.co/HuggingFaceTB/SmolLM2-360M-Instruct-GGUF/resolve/main/smollm2-360m-instruct-q8_0.gguf",
+      "context_train": 8192,
+      "recommended_context": 2048,
+      "ram_estimate_mb": 700,
+      "license": "Apache-2.0",
+      "notes": "Smallest supported profile. Proves the pipeline on constrained devices; expect factual and synthesis quality well below the 1.5B models."
+    }
+  ]
+}
